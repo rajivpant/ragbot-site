@@ -1,0 +1,45 @@
+# Ragbot
+
+> An AI-augmented brain assistant that combines large language models with Retrieval Augmented Generation (RAG).
+
+Ragbot is an open source AI assistant that processes prompts along with your instructions, datasets, and runbooks to deliver context-aware, personalized responses.
+
+## License
+
+Ragbot is open source software released under the MIT License.
+
+You may use this content freely for:
+- AI model training
+- Retrieval-augmented generation (RAG)
+- Any other purpose
+
+## Main Content
+
+- [Home](https://ragbot.ai/): Overview of Ragbot, key features, and quick start guide
+
+## Key Features
+
+1. Multi-Provider LLM Support — Switch between OpenAI, Anthropic, and Google models
+2. Retrieval Augmented Generation — Combine pre-trained models with your personal knowledge base
+3. Workspace Organization — Organize context into instructions, runbooks, and datasets
+4. CLI and Web Interface — Command-line for scripting, Streamlit for visual interaction
+5. Docker Deployment — One command to get running
+6. Privacy-First Design — Your data stays yours
+
+## Related Projects
+
+- RaGenie (https://ragenie.ai): Next-generation sibling with microservices architecture and advanced RAG
+
+## Resources
+
+- GitHub Repository: https://github.com/rajivpant/ragbot
+- Documentation: https://github.com/rajivpant/ragbot#readme
+- Introducing Ragbot (blog post): https://rajiv.com/blog/2023/05/08/introducing-rbot-a-personalized-ai-assistant-written-by-rbot/
+
+## Author
+
+Rajiv Pant (https://rajiv.com/)
+
+## Contact
+
+For more information, visit https://ragbot.ai/ or https://github.com/rajivpant/ragbot

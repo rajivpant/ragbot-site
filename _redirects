@@ -1,0 +1,2 @@
+# Redirect www to apex domain
+https://www.ragbot.ai/* https://ragbot.ai/:splat 301
